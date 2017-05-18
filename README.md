@@ -9,7 +9,7 @@ It uses the following technologies:
 
 ---
 #### Michael:
-Run all these commands in this order in the command line to setup the app
+Run all these commands in this order in the command line to setup the app (may take a few minutes):
 ```sh
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   brew install node git
