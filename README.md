@@ -5,7 +5,7 @@ Proof of concept behind Michael Eisner's Rap-n-Rhyme app idea
 
 It uses the following technologies:
 * Node
-* Datamuse
+* Rhyme Brain
 
 ---
 #### Michael:
